@@ -1,0 +1,12 @@
+C:\Users\Tuğba\source\repos\yarisma\yarisma\bin\Debug\yarisma.exe.config
+C:\Users\Tuğba\source\repos\yarisma\yarisma\bin\Debug\yarisma.exe
+C:\Users\Tuğba\source\repos\yarisma\yarisma\bin\Debug\yarisma.pdb
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.csproj.AssemblyReference.cache
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.Form1.resources
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.Properties.Resources.resources
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.csproj.GenerateResource.cache
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.csproj.CoreCompileInputs.cache
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.exe
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.pdb
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.Testform.resources
+C:\Users\Tuğba\source\repos\yarisma\yarisma\obj\Debug\yarisma.exe.config
